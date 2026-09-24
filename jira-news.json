@@ -1,5 +1,20 @@
 {
   "generated_at": "2026-09-24T22:00:00+02:00",
-  "status": "test_ok",
-  "items": []
+  "status": "updates",
+  "items": [
+    {
+      "id": "jira-new-dashboard-experience-2026-09",
+      "detected_at": "2026-09-24",
+      "title": "Nuova esperienza delle dashboard Jira in rollout",
+      "what_changes": [
+        "Atlassian sta distribuendo una nuova esperienza delle dashboard Jira, descritta come più moderna e flessibile.",
+        "Durante il rollout la nuova esperienza convive con le dashboard Jira classiche.",
+        "Il rollout verso i clienti è indicato a partire dal 23 settembre 2026."
+      ],
+      "operator_action": "Nessuna azione specifica indicata da Atlassian per i normali operatori.",
+      "rollout": "Rolling out dal 23 settembre 2026; potrebbe non essere ancora visibile a tutti.",
+      "source_title": "Jira Cloud Platform Changelog — New Forge dashboard modules now generally available",
+      "source_url": "https://developer.atlassian.com/cloud/jira/platform/changelog/"
+    }
+  ]
 }
